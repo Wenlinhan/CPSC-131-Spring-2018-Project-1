@@ -8,6 +8,6 @@ using namespace std;
 int main(int argc, char *argv[]) {
     cout<<"main"<<endl;
     
-  return 1;
+  //return 1;
 }
 
