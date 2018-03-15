@@ -10,4 +10,5 @@ addons:
 install: true
 before_install:
  - chmod +x critic
+pip install -I pexpect
 script: ./critic test
