@@ -8,4 +8,6 @@ addons:
         - python3
         - libstdc++-4.8-dev
 install: true
+before_install:
+ - chmod +x critic
 script: ./critic test
