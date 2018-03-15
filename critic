@@ -73,7 +73,7 @@ def compile(source_path_list, library_name_list, output_path):
                    ['-o'] + output_path)
 
 def build():
-    return (compile(['main.cpp', 'Student.cpp', 'Registrar.cpp'],
+    return (compile(['main.cpp'],
                    [],
                    ['Project1exe']))
 
