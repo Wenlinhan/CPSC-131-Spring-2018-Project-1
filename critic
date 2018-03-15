@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 # -*-Python-*-
-
+$ pip install pexpect
 import os, subprocess, sys
 from pexpect import run # $ pip install pexpect
 
