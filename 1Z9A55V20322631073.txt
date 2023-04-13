@@ -1,0 +1,21 @@
+new
+Package has left the carrier facility;Reno, NV US;1517157420
+new
+Carrier Delay - Truck Mechanical;Ny, US US;1517187660
+new
+Package received by carrier;Vernon, CA US;1517235660
+new
+Package has left the carrier facility;Vernon, CA US;1517254680
+new
+Package arrived at a carrier facility;Baldwin Park, CA US;1517256480
+new
+Out for delivery;Baldwin Park, CA US;1517285400
+new
+Out for delivery;Baldwin Park, CA US;1517304120
+new
+Delivered;Walnut, CA US;1517323380
+forward
+forward
+back
+back
+back
